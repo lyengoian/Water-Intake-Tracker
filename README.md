@@ -1,5 +1,9 @@
 Water Intake Tracker
 ===============
+<img width="500" alt="image" src="https://github.com/lyengoian/Water-Intake-Tracker/assets/97694867/5635ead4-7a3f-44b9-8005-ee446861402b">
+
+<img width="500" alt="image" src="https://github.com/lyengoian/Water-Intake-Tracker/assets/97694867/c8091335-c269-42ca-b6fa-c4e8d9f485ad">
+
 
 Topic and Purpose
 -----------------
@@ -8,5 +12,4 @@ The Water Intake Tracker is an app built with Flutter and Dart to interactively 
 
 App Demo
 ------------------
-Click on the image below to watch a video demo of the app!
-[![Watch the demo video](https://github.com/lyengoian/Water-Intake-Tracker/assets/97694867/09c9d712-9135-4691-aeba-bc5b9b596321)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=3FzPrritoM8))
+[Watch a video demo of the app here!](https://www.youtube.com/watch?v=3FzPrritoM8)
